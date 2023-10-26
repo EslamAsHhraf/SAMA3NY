@@ -1,4 +1,4 @@
-# <img  align="center" width= 65px  src="https://media0.giphy.com/media/MeDFeqDC4EMFiKEEMn/giphy.gif?cid=ecf05e4768qyfkj6aq97kbwzznwnfataycnpnnistsed2qbp&rid=giphy.gif&ct=s"> SAMA3NY
+# 📶 SAMA3NY
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 <hr style="background-color: #4b4c60"></hr>
 
-## <img align= center width=50px height=50px src="https://thumbs.gfycat.com/HeftyDescriptiveChimneyswift-size_restricted.gif"> Table of Contents
+## 📝 Table of Contents
 
 - <a href ="#about"> 📙 Overview</a>
 - <a href ="#Started"> 💻 Get Started</a>
@@ -22,7 +22,7 @@
 <hr style="background-color: #4b4c60"></hr>
 <a id = "about"></a>
 
-## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
+## 📙 Overview
 
 <ul>
  <li>
@@ -61,7 +61,7 @@ Perform synchronous demodulation to restore the three signals.
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
 
-## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
+## 🚀 Get Started
 
 <ol>
 <li>Clone the repository.
@@ -104,7 +104,7 @@ cd ./Output_signals
 
 <a id ="work"></a>
 
-## <img  align="center" width= 70px src="https://media2.giphy.com/media/KoNYPNsRlbkCWD2ykO/giphy.gif?cid=ecf05e477yrbjph7rxl4lw1ya1upgcck9fju3nipn3iu8s8n&rid=giphy.gif&ct=s"> Work Explanation
+## 👷🏼 Work Explanation
 
 ### Input signals
 
@@ -347,7 +347,7 @@ All signals have been occurred more distortion on them.
 
 <a id ="Contributors"></a>
 
-## <img  align="center" width= 70px height =55px src="https://media0.giphy.com/media/Xy702eMOiGGPzk4Zkd/giphy.gif?cid=ecf05e475vmf48k83bvzye3w2m2xl03iyem3tkuw2krpkb7k&rid=giphy.gif&ct=s"> Contributors
+## 👑 Contributors
 
 <br>
 <table >
